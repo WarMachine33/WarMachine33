@@ -14,7 +14,7 @@ I love to join different community and competition that involve creating somethi
 Infrastructure Management | Pipeline CI/CD |  Systems Adminstrator | Monitoring
 
 **Tools:**   
-[<img src='https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png' alt='vscode' height='40'>]
+<img src='https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png' alt='vscode' height='40'>
 
 
 - 🔭 I’m currently working on this page. 
