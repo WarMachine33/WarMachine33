@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome!
 
-![I am Kostka Michel ](https://raw.githubusercontent.com/nikxherrera/banner/main/img/nikka.png)
+![I am Kostka Michel ](https://avatars.githubusercontent.com/u/93066080?v=4)
 
 Hello!👋🏻 My name is **Kostka**. I am from E.N.I University taking Systems and Networks Administrator. 🏫
 
